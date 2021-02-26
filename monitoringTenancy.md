@@ -13,5 +13,4 @@ The most popular option for monitoring Kubernetes clusters is Prometheus and Gra
 ## Logging
 As for logging the same goes, Azure Log Analytics doesn't provide RBAC per workspace, an alternative would be something like Elastic Search or(Loki)[https://github.com/grafana/loki]
 
-
-
+If you want to provide RBAC based on Dashboard that is possible today by using the following guide [https://docs.microsoft.com/en-us/azure/azure-portal/azure-portal-dashboard-share-access]
