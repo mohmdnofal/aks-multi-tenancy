@@ -53,18 +53,18 @@ The rest of this document is dedicated towards explaining the different options 
 
 
 #### Content 
-* [High level comparison between Dedicated and Multi tenancy clusters](dedicatedVsMultiTenancy)
-* [Compute Tenancy Models](computeTenancy)
-* [Network Tenancy Models](networkTenancy)
-* [Security in multi-tenant clusters](security)
-* [Container Registry Tenancy Model](acrTenancy)
-* [Monitoring Tenancy Models](monitoringTenancy)
-* [Storage Tenancy Models](storageTenancy)
-* [Operating Multi-Tenant clusters](operations)
-* [Azure Subscriptions and Tenancy](subscriptionsTenancy)
-* [Workload Deployments in Multi-Tenants Environment](workloadDeployments)
-* [Billing and Charge Back for multi-tenant clusters](chargeBack)
-* [Advancements in the ecosystem towards better multi-tenancy](others)
+* [High level comparison between Dedicated and Multi tenancy clusters](dedicatedVsMultiTenancy.md)
+* [Compute Tenancy Models](computeTenancy.md)
+* [Network Tenancy Models](networkTenancy.md)
+* [Security in multi-tenant clusters](security.md)
+* [Container Registry Tenancy Model](acrTenancy.md)
+* [Monitoring Tenancy Models](monitoringTenancy.md)
+* [Storage Tenancy Models](storageTenancy.md)
+* [Operating Multi-Tenant clusters](operations.md)
+* [Azure Subscriptions and Tenancy](subscriptionsTenancy.md)
+* [Workload Deployments in Multi-Tenants Environment](workloadDeployments.md)
+* [Billing and Charge Back for multi-tenant clusters](chargeBack.md)
+* [Advancements in the ecosystem towards better multi-tenancy](others.md)
 
 
 
